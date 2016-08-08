@@ -1,0 +1,9 @@
+c:\users\mindaugas\documents\visual studio 2012\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\mindaugas\documents\visual studio 2012\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\mindaugas\documents\visual studio 2012\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\mindaugas\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.Form1.resources
+c:\users\mindaugas\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\mindaugas\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\mindaugas\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\mindaugas\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.pdb
+c:\users\mindaugas\documents\visual studio 2012\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
